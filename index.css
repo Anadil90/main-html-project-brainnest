@@ -1,0 +1,26 @@
+div {
+    width: 70%;
+    border: 2px solid #ff0000;
+    margin: 60px auto;
+}
+
+img {
+   width: 40%;
+   max-height: 350px;
+   margin-left: 5px;
+}
+
+p {
+    width: 50%;
+    padding: 10px;
+    text-align: left;
+    float: right;
+}
+
+body {
+    background-color: bisque;
+}
+
+h2 {
+    margin-left: 5px;
+}
